@@ -4,7 +4,8 @@ title: "Ripeness Preferences in Fruit Eating Bats"
 background: '/img/C pers.jpg'
 ---
 
-<p> Post here about Ripeness Study </p>
+<p> Post here about Ripeness Study </p>![C pers](https://github.com/brandiMchristiano/brandiMchristiano.github.io/assets/77655170/661f3e73-41d1-4fc5-9384-b3dc151661c0)
+
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
