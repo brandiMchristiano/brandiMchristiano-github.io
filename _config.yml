@@ -1,7 +1,7 @@
 title:              Brandi Christiano
 email:              brandi.christiano@utexas.edu
 description:        PhD student studying foraging ecology of bats in Texas and Panama
-author:             Start Bootstrap
+author:             BMC
 url:                "https://brandiMchristiano.github.io"
 
 # Social Profiles
@@ -13,7 +13,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/Posts/page:num/"
+paginate_path:      "/Research/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
